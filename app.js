@@ -53,7 +53,8 @@ app.use(hpp({
 
 
 
-
+app.use(cors())
+app.options('*', cors());
 
 
 // app.get('/api/v1/tasks',getAllTasks )
