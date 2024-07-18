@@ -1,3 +1,3 @@
 # Tasko project mangement API 
 
-build using nodejs,express and mongoDB 
+built using nodejs,express and mongoDB 
